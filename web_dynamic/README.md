@@ -1,0 +1,1 @@
+This folder contains the dynamic routing and populating of the html files of this project using Flask.
